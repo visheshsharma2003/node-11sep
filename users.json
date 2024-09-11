@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Duff",
+        "last_name": "Boag",
+        "email": "dboag0@hc360.com",
+        "gender": "Male",
+        "ip_address": "176.211.7.103"
+    },
+    {
+        "id": 2,
+        "first_name": "Odetta",
+        "last_name": "Windle",
+        "email": "owindle1@cafepress.com",
+        "gender": "Female",
+        "ip_address": "135.211.176.215"
+    },
+    {
+        "id": 3,
+        "first_name": "Carri",
+        "last_name": "Blockey",
+        "email": "cblockey2@spiegel.de",
+        "gender": "Female",
+        "ip_address": "10.239.223.232"
+    },
+    {
+        "id": 4,
+        "first_name": "Gwenny",
+        "last_name": "Moreno",
+        "email": "gmoreno3@slashdot.org",
+        "gender": "Female",
+        "ip_address": "219.21.130.84"
+    },
+    {
+        "id": 5,
+        "first_name": "Gustav",
+        "last_name": "Bartolijn",
+        "email": "gbartolijn4@fda.gov",
+        "gender": "Male",
+        "ip_address": "83.182.82.206"
+    },
+    {
+        "id": 6,
+        "first_name": "Violetta",
+        "last_name": "McCarthy",
+        "email": "vmccarthy5@hexun.com",
+        "gender": "Non-binary",
+        "ip_address": "68.236.34.235"
+    },
+    {
+        "id": 7,
+        "first_name": "Amos",
+        "last_name": "Gurko",
+        "email": "agurko6@wufoo.com",
+        "gender": "Male",
+        "ip_address": "229.117.173.96"
+    },
+    {
+        "id": 8,
+        "first_name": "Gregg",
+        "last_name": "Godilington",
+        "email": "ggodilington7@arstechnica.com",
+        "gender": "Male",
+        "ip_address": "217.204.26.109"
+    },
+    {
+        "id": 9,
+        "first_name": "Bruno",
+        "last_name": "Wetherick",
+        "email": "bwetherick8@icio.us",
+        "gender": "Male",
+        "ip_address": "128.70.60.136"
+    },
+    {
+        "id": 10,
+        "first_name": "Yves",
+        "last_name": "Scanterbury",
+        "email": "yscanterbury9@cornell.edu",
+        "gender": "Male",
+        "ip_address": "226.240.126.163"
+    }
+]
